@@ -2,8 +2,12 @@ package
 {
 	/**
 	 * QuickKong by UnknownGuardian. August 26th 2011.
-	 * Visit http://profusiongames.com/ and http://github.com/UnknownGuardian
+	 * Visit http://profusiondev.net/ and http://github.com/UnknownGuardian
 	 *
+	 * Copyright (c) 2016 ProfusionDev
+	 *    All rights reserved.
+	 * 
+	 * 
 	 * Copyright (c) 2010 ProfusionGames
 	 *    All rights reserved.
 	 *
